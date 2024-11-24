@@ -107,7 +107,7 @@ public class ClockTimer implements ActionListener
             screenHeight = 350;
             notetimerheight = 230;
             
-            frame.setSize(550, screenHeight);
+            frame.setSize(500, screenHeight);
             resetlabel();
             updateTimerLabel();
         }
@@ -147,7 +147,7 @@ public class ClockTimer implements ActionListener
         removelabel.add(notetimer);
 
         frame.add(notetimer);
-        frame.setSize(550, screenHeight);
+        frame.setSize(500, screenHeight);
         
         String labelfromtimer = timer.getText();
         notetimer.setText(String.format("- " + labelfromtimer));
