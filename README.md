@@ -5,17 +5,17 @@
 
 ### 🗝️ Features:
 
-`Start` - Start Button for Timer
+1️⃣ `Start` - Start Button for Timer
 
-`Stop` - Stop Button for Timer
+2️⃣ `Stop` - Stop Button for Timer
 
-`Reset` -  Reset Button to Reset the Timer
+3️⃣ `Reset` -  Reset Button to Reset the Timer
 
-`Note` - Note Button to note the timing when Time is Running
+4️⃣ `Note` - Note Button to note the timing when Time is Running
 
-`Normal` - Normal Button for setting Timer to Normal Speed
+5️⃣ `Normal` - Normal Button for setting Timer to Normal Speed
 
-`2x` - 2x Button for setting Timer speed to 2 times the speed of original one
+6️⃣ `2x` - 2x Button for setting Timer speed to 2 times the speed of original one
 
 ---
 
