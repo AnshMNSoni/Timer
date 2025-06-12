@@ -19,8 +19,6 @@
 
 ---
 
-### Visit Once!
-
 Follow me on LinkedIn 👉 [Visit](https://linkedin.com/in/anshmnsoni)
 
 ---
